@@ -1,7 +1,8 @@
 # Login Page Todo
 
 - [X] Quick Mock
-- [ ] Research CSS framework
+- [X] Research CSS framework (Settled on Tailwind)
 - [ ] Rough HTML
+- [ ] Research Tailwind
 - [ ] Gulp/SASS/npm research
 - [ ] Rough CSS
