@@ -1,19 +1,5 @@
 // Gulp.js configuration
-var
-  // modules
-  gulp = require('gulp'),
-
-  // development mode?
-  devBuild = (process.env.NODE_ENV !== 'production'),
-
-  // folders
-  folder = {
-    src: 'src/',
-    build: 'build/'
-  }
-
-
-;
+var gulp = require('gulp');
 
 gulp.task('css', function () {
     var postcss = require('gulp-postcss');
@@ -25,5 +11,7 @@ gulp.task('css', function () {
         require('autoprefixer')
       ]))
       .pipe(rename("style.css"))
-      .pipe(gulp.dest('build/'));
+      .pipe(gulp.dest('src/'));
   });
+
+gulp.task('default', gulp.series('css'));
