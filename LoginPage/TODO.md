@@ -2,7 +2,8 @@
 
 - [X] Quick Mock
 - [X] Research CSS framework (Settled on Tailwind)
-- [ ] Rough HTML
+- [X] Rough HTML
+- [X] Gulp/npm/tailwind install research
 - [ ] Research Tailwind
-- [ ] Gulp/SASS/npm research
+- [ ] Sass Research
 - [ ] Rough CSS
