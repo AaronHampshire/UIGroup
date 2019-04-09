@@ -5,7 +5,17 @@
 - [X] Rough HTML
 - [X] Gulp/npm/tailwind install research
 - [X] Finish gulp task
-- [ ] Research Tailwind
-- [ ] Sass Research
+- [X] Research Tailwind (Initial)
+- [ ] Sass Research/Button component
 - [ ] Rough CSS
+    - [ ] Button
+    - [ ] Textbox 
+    - [ ] General positioning, whitespace
 - [ ] HTML form submit/JS onClick
+
+
+# Notes 
+- Tailwind 
+    - `config('colors.grey-darker')`
+    - `@variants`
+    - `@apply`
