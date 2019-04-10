@@ -6,7 +6,7 @@
 - [X] Gulp/npm/tailwind install research
 - [X] Finish gulp task
 - [X] Research Tailwind (Initial)
-- [ ] Sass Research/Button component
+- [X] Sass Research/Button component
 - [ ] Rough CSS
     - [ ] Button
     - [ ] Textbox 
