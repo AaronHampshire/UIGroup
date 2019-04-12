@@ -1,7 +1,7 @@
 @import "../node_modules/tailwindcss/preflight";
 @import "../node_modules/tailwindcss/components";
 @import "../node_modules/tailwindcss/utilities";
-
+@import "button";
 /**
   * Here you would add any custom utilities you need that don't come out of the
   * box with Tailwind.
@@ -16,3 +16,7 @@
   * @import "utilities/background-patterns";
   * @import "utilities/skew-transforms";
   */
+
+//   .btn {
+//     @apply bg-blue text-white font-bold py-2 px-4 rounded;
+// }
